@@ -1,13 +1,4 @@
-## 반려동물과 함께 만들어 가는 나의 이야기 펫토리
-
-![펫토리 아이콘](./images/어플_아이콘.PNG)
-
 # 2조 펫토리
-
-| [![](https://avatars.githubusercontent.com/u/103301589?v=4)](https://github.com/kimjm9911) | [![](https://avatars.githubusercontent.com/u/87793524?v=4)](https://github.com/dispear) | [![](https://avatars.githubusercontent.com/u/174981455?v=4)](https://github.com/eunseo-76) | [![](https://avatars.githubusercontent.com/u/158060587?v=4)](https://github.com/ygc1994) | [![](https://avatars.githubusercontent.com/u/132972216?v=4)](https://github.com/HanDJ00) | [![](https://avatars.githubusercontent.com/u/83564484?v=4)](https://github.com/aosskfdlrla)|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 김지민 | 박지훈 | 이은서 | 연건창 | 한동주 | 황희순
-|산책모임|공동구매|회원프로필 및 기타 기능|상담|게시판|채팅|
 
 # 프로젝트 설계
 ## 요구사항 명세서
@@ -23,49 +14,18 @@
   <img src="./images/요구사항_명세서4.PNG" alt="요구사항 명세서 4">
   <img src="./images/요구사항_명세서5.PNG" alt="요구사항 명세서 5">
   <img src="./images/요구사항_명세서6.PNG" alt="요구사항 명세서 6">
-
-
-
-   ### DDD-이벤트 스토밍
-
-
-- Bounded-Context
-    
-    ![회원.png](/images/회원.png)
-    
-    ![프로필.png](/images/프로필.png)
-    
-    ![게시판.png](./images/게시판.png)
-    
-    ![상담.png](./images/상담.png)
-    
-    ![산책 모임.png](./images/산책%20모임.png)
-    
-    ![공동 구매.png](./images/공동%20구매.png)
-    
-    ![채팅.png](./images/채팅.png)
-
     
 ## 데이터베이스
 
 ### 논리 모델링
 
-
-
-   
 - 논리 모델링
     
     <img src="./images/논리_모델링3.PNG" alt="논리 모델링 3">
 
     <img src="./images/논리_모델링4.PNG" alt="논리 모델링 4">
-
-
-
-
+    
 ### 물리 모델링
-
-
-
 
 - 물리 모델링
     
